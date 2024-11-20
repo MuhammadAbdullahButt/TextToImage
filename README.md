@@ -1,2 +1,4 @@
-# TextToImage
-Converts the input text into the image
+**Overview:**
+Text-to-Image Creator is a cutting-edge application that transforms your written descriptions into vivid, high-quality images using the power of AI. Whether you're an artist seeking inspiration, a designer creating custom visuals, or simply exploring creative possibilities, this app brings your imagination to life.
+**Tools:**
+The Text-to-Image Creator app uses a streamlined tech stack for seamless functionality. The front-end, built with index.html and styled via styles.css, provides a clean and user-friendly interface for inputting text prompts and viewing generated images. The back-end is powered by Python and Flask, which handle user requests, route data, and interact with the Pollination.ai API, the engine responsible for converting text into high-quality images using advanced AI models. Together, these components deliver a smooth and efficient text-to-image generation experience.
